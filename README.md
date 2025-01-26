@@ -8,3 +8,5 @@ Para personalizar basta editar o arquivo `config.yml` que ficara localizado na p
 
 
 Este plugin foi feito em um video de SpeedCode: https://www.youtube.com/watch?v=i8m8-Q0uUts
+
+**Não pretendo fazer atualizações futuras para este plugin.**
