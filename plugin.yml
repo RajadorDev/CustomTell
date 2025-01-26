@@ -1,0 +1,12 @@
+---
+name: CustomTell
+version: 1.0.0
+author: Rajador
+discord: rajadortv
+api: 5.0.0
+main: CustomTell\System
+permissions:
+  tell.command:
+    description: 'Executar comando de mensagens privada'
+    default: true
+...

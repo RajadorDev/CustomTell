@@ -1,0 +1,16 @@
+---
+# Formato da mensagem enviada
+format: '§8>  [§f{sender_name}§8]§7: {message}'
+# Format da mensagem enviada (para o remetente)
+sender-format: '§8>  [§fVocê§8] §7para §8[§f{target_name}§8]§7: {message}'
+# Descrição do comando
+command-description: 'Enviar mensagens privada'
+# Uso do comando
+command-usage: '§8-  §7Para enviar uma mensagem privada use: §f/{command_label} <player: string> <message: string>'
+# Mensagem enviada quando o jogador procurado não é encontrado
+player-notfound: '§8-  §cJogador §f{target} §cnão encontrado!'
+# Comandos que podem ser usados para representar o /tell
+aliases: 
+  - pv
+  - dm
+...
